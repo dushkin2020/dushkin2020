@@ -33,8 +33,8 @@
   Основной язык: HTML + JS.
 
 Больше проектов добавлю по мере — следи за обновлениями!
+### 📊 Моя статистика на GitHub
 
-### 📊 Статистика GitHub
 ![Bryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushkin2020&show_icons=true&theme=radical&locale=ru)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushkin2020&layout=compact&theme=radical&locale=ru)
