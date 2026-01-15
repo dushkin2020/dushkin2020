@@ -4,9 +4,9 @@
   <a href="https://github.com/dushkin2020">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/Hac_Wh">
-    <img src="Telegram" alt="Telegram"/>
-  </a>
+<a href="https://t.me/Hac_Wh">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
   <!-- Если есть Telegram/LinkedIn — добавь сюда -->
 </p>
 
@@ -40,7 +40,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushkin2020&layout=compact&theme=radical&locale=ru)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushkin2020&theme=radical&locale=ru)
-
 ---
 
 Открыт к сотрудничеству, фрилансу или full-time в DevOps/автоматизации!  
