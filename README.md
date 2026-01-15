@@ -47,7 +47,7 @@
 
 ### 📈 Посетители профиля
 
-![Profile views](https://komarev.com/ghpvc/?username=dushkin2020&color=blueviolet&style=flat-square&label=Просмотры)
+![Profile views](https://komarev.com/ghpvc/?username=dushkin2020&color=blueviolet&style=flat-square&label=Гости)
 
 ### 🚀 Сейчас открыт к
 
