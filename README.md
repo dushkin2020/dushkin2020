@@ -33,17 +33,28 @@
   Основной язык: HTML + JS.
 
 Больше проектов добавлю по мере — следи за обновлениями!
-### 📊 Моя статистика на GitHub
+### 🛠️ Навыки / Tech Stack
 
-![Bryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushkin2020&show_icons=true&theme=radical&locale=ru)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushkin2020&layout=compact&theme=radical&locale=ru)
+<!-- Можно добавить больше: Terraform, Kubernetes, AWS, Ansible и т.д. — ищи на shields.io -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dushkin2020&theme=radical&locale=ru)
----
+### 📈 Посетители профиля
 
-Открыт к сотрудничеству, фрилансу или full-time в DevOps/автоматизации!  
-Пишите в X (https://t.me/Hac_Wh) или issues здесь.  
-Готов обсуждать задачи по Docker, Bash, CI/CD и не только 🚀
+![Profile views](https://komarev.com/ghpvc/?username=dushkin2020&color=blueviolet&style=flat-square&label=Просмотры)
 
-#DevOps #Docker #Automation #OpenToWork
+### 🚀 Сейчас открыт к
+
+- Full-time / фриланс в DevOps, автоматизации, CI/CD
+- Задачам по Docker, Bash-скриптам, Git-workflow
+- Релокации или удалёнке в Европе (Краснодар → Амстердам?)
+
+Пишите в Telegram: [@Hac_Wh](https://t.me/Hac_Wh) или создайте issue в любом репо — обсудим!
+
+
